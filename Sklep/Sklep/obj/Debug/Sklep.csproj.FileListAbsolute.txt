@@ -80,3 +80,5 @@ C:\Users\marci\source\repos\SklepInternetowyUKW\Sklep\Sklep\obj\Debug\Sklep.cspr
 C:\Users\marci\source\repos\SklepInternetowyUKW\Sklep\Sklep\obj\Debug\Sklep.csproj.CopyComplete
 C:\Users\marci\source\repos\SklepInternetowyUKW\Sklep\Sklep\obj\Debug\Sklep.dll
 C:\Users\marci\source\repos\SklepInternetowyUKW\Sklep\Sklep\obj\Debug\Sklep.pdb
+C:\Users\marci\source\repos\SklepInternetowyUKW\Sklep\Sklep\obj\Debug\Sklep.Migrations.InitialCreate.resources
+C:\Users\marci\source\repos\SklepInternetowyUKW\Sklep\Sklep\obj\Debug\Sklep.csproj.GenerateResource.cache
